@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PARAM SSH Manager
 
 A modern, web-based SSH terminal manager designed for HPC clusters and remote server management. Built with Flask and xterm.js, it provides an intuitive interface for managing SSH connections, SLURM jobs, Conda environments, and file operations.
@@ -223,3 +224,6 @@ For issues and questions:
 ---
 
 **Note**: This application is designed for trusted environments. Always follow your organization's security policies when deploying web-based SSH clients.
+=======
+# paramConsole
+>>>>>>> 985c98119a3f1e250e7b2fd9f7c9d2efe314c10b
